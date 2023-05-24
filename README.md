@@ -1,13 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Community Outreach
-- 🌱 I’m currently learning Flask
-- 👯 I’m looking to collaborate on Educational Projects
-- 🤔 I’m looking for help with Back-end Applications
-- 💬 Ask me about Science, Environment, Culture, Politics (when I'm eventually reachable)
-- 📫 How to reach me: TBD
-- 😄 Pronouns: whatever you like, I can't read
-- ⚡ Fun fact: Everything is something
+This vehicle is currently under construction... 🏗️
 
 <!--
 **Intellectual-Vehicle/Intellectual-Vehicle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
