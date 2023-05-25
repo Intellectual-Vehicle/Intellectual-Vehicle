@@ -2,6 +2,8 @@
 
 This vehicle is currently under construction... 🏗️
 
+See <h3 style="text-decoration: underline;"><a href="https://intellectual-vehicle.github.io/">intellectual-vehicle.github.io</a></h3> for progress
+
 <!--
 **Intellectual-Vehicle/Intellectual-Vehicle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
