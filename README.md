@@ -1,4 +1,4 @@
-### Hi there 👋
+### An Intellectual Vehicle for Audacious Thinkers  👋
 
 This vehicle is currently under construction... 🏗️
 
